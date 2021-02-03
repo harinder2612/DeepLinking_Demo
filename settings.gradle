@@ -1,0 +1,2 @@
+rootProject.name='360_DeepLinking_Demo'
+include ':app'
